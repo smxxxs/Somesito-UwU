@@ -1,0 +1,25 @@
+{
+  "name": "somesito-uwu",
+  "version": "1.0.0",
+  "description": "Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smxxxs/Somesito-UwU.git"
+  },
+  "keywords": [
+    "chatbot",
+    "somesito",
+    "uwu",
+    "somx"
+  ],
+  "author": "somexx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smxxxs/Somesito-UwU/issues"
+  },
+  "homepage": "https://github.com/smxxxs/Somesito-UwU#readme"
+}
